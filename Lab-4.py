@@ -4,6 +4,7 @@ class Employee:
         self.name = name
         self.age = age
         self.salary = salary
+        
 
 class EmployeeDatabase:
     def _init_(self):
